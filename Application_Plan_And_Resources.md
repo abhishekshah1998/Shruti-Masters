@@ -188,18 +188,24 @@ Before drafting, we establish a core narrative for each question to avoid overla
 ---
 
 ### Step 2: Drafting the Responses
-- A new draft document will be created containing responses to questions 4 through 8.
-- Each response will be written in a professional, reflective first-person tone, adhering strictly to the 4000-character limits.
-- Drafts will pull exact LLU terminology from [LLU_Mission_And_Values.md](LLU_Mission_And_Values.md) and [LLU_Who_We_Are_Booklet.md](LLU_Who_We_Are_Booklet.md).
-- Specific course names from [DPT_Postprofessional_Info.md](DPT_Postprofessional_Info.md) and [PT_Graduate_Program_Info.md](PT_Graduate_Program_Info.md) will be woven into Q4 and Q8.
+- The core drafts have been actively written and map as follows:
+  - **Q4 Draft** (Why LLU & Advanced Ed) is available in [`LLU Q1.md`](LLU Q1.md).
+  - **Q5 Draft** (Values Alignment) is available in [`LLU Q2.md`](LLU Q2.md).
+  - **Q6 Draft** (Qualities & Experiences) is available in [`LLU Q3.md`](LLU Q3.md).
+  - **Q7 Draft** (Faith-Based Education) is available in [`LLU Q4.md`](LLU Q4.md).
+  - **Q8 Draft** (Additional Info / Purpose) is still pending.
+- Each drafted response has been written in a professional, reflective first-person tone, adhering strictly to the 4000-character limits.
+- The drafts successfully pull exact LLU terminology from `LLU_Mission_And_Values.md` and `LLU_Who_We_Are_Booklet.md`.
+- Specific course names from `DPT_Postprofessional_Info.md` and `PTGR_Courses.md` have been woven into the answers correctly.
 
 ---
 
 ### Step 3: Review and Refinement
-- Present the draft to Shruti for review.
+- Present the current drafts for Q4 through Q7 (in `LLU Q1.md`, `LLU Q2.md`, `LLU Q3.md`, `LLU Q4.md`) to Shruti for review.
 - Iterate on feedback to adjust tone, emphasize different achievements, or trim length as needed.
 
 ---
 
 ## 3. Next Steps
-Once this plan is confirmed, proceed to Step 2 and begin drafting the five essay responses (Q4–Q8).
+- First, review the currently drafted questions in the respective `LLU QX.md` files and ensure they hit all desired points for the application.
+- Second, proceed to outline and begin drafting the final essay response (Q8), integrating the broader personal arc from `Shruti_Application_Questionnaire.md` and CV resources.
