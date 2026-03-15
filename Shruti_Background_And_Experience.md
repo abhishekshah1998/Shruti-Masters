@@ -2,6 +2,16 @@
 
 ---
 
+## Personal Narrative & Career Goals
+
+**Motivation for Physiotherapy:**  
+Shruti's interest in healthcare began in childhood but crystallized during her teenage years after sustaining an Anterior Talofibular (ATF) ligament tear while playing basketball. Her personal rehabilitation journey—recovering and returning to sports using only strength, consistency, and targeted exercises rather than surgery—demonstrated the profound power of rehabilitation care. She realized physiotherapy is not just about managing injury, but about rebuilding strength, functional independence, and confidence.
+
+**Post-DPT Career Goals:**  
+She aims to specialize in advanced clinical practice without losing touch with research. Her goal is to implement and test specific clinical protocols on patients, analyze the efficiency of interventions, and publish clinical research papers. She also seeks to gain international exposure in various hospital settings before potentially returning to India.
+
+---
+
 ## Academic Background — Bachelor of Physiotherapy (BPT)
 
 **Institution:** Dr. D. Y. Patil College of Physiotherapy, Pune
@@ -80,9 +90,14 @@ Key subjects included:
 ### Clinical Intern — Dr. D. Y. Patil Hospital, Pune
 *August 2025 – Present*
 
-- Delivered comprehensive **rotational clinical services** across **Orthopedics, Neurology, Cardiopulmonary, Pediatrics, Medicine & Surgery, Women's Health, and Intensive Care Units (ICU)** in a high-volume, multi-specialty hospital
+- Delivered comprehensive **rotational clinical services** across **Orthopedics, Neurology, Cardiopulmonary, Pediatrics, Medicine & Surgery, Women's Health, and Intensive Care Units (ICU)** in a high-volume, multi-specialty hospital. Notable patient experiences shaping her clinical perspective include:
+  - **Cardiovascular Thoracic Surgery (CVTS) Ward:** Provided critical early mobilization for patients just 24-48 hours post-op. Witnessing patients relearn basic functions (like holding a pencil or breathing properly) instilled a profound sense of gratitude and an understanding of the true "cost of life" and the critical window of early intervention.
+  - **Pediatric Ward (Stroke Rehab):** Treated a 16-year-old girl with a Cerebrovascular Accident (CVA). Emphasized counseling, establishing trust, and building confidence before physical facilitation, eventually leading to the return of minimal limb control.
+  - **Pediatric OPD:** Managed a 2.5-year-old baby with Intrauterine Growth Restriction (IUGR), highlighting the specialized differences between adult and pediatric rehabilitation.
+  - **Post-Op Sports Rehab:** Guided a football player through Phase 4 (return-to-sport) ACL reconstruction rehabilitation in an outpatient setting, focusing on agility, strength training, and rebuilding confidence to use the operated leg.
+  - **Outpatient Manual Therapy:** Applied joint mobilization and manual therapy techniques to help a middle-aged woman with "frozen shoulder" regain pain-free functional independence for daily chores.
 - Executed **community-based physiotherapy interventions** focusing on functional independence, mobility enhancement, and quality-of-life improvement at:
-  - PCMC Divyang Bhavan Foundation
+  - PCMC Divyang Bhavan Foundation (Specially abled kids and adults)
   - Amrutvel Old Age Home, Pimpri
   - Dr. D. Y. Patil Rural Health Training Centre, Alandi
 - Collaborated in **multidisciplinary healthcare teams** through integrated clinical rotations at:
@@ -117,6 +132,11 @@ Key subjects included:
 
 ### Research Projects
 
+- **Immediate Effects of Lumbopelvic Rotational Exercise on Hamstring Flexibility and Running Gait Velocity in Recreational Runners**
+  - Completed a 6-month experimental study for the mandatory internship research project.
+  - Found that the experimental lumbopelvic intervention group showed highly significant improvements in hamstring flexibility and running velocity compared to the control group.
+  - Demonstrated the superiority of specific spinal mobilization protocols in improving functional speed.
+
 - **Effects of Grade V Spinal Mobilization on Segmental Spinal Range of Motion and Flexibility in Asymptomatic Individuals**
   - Published under **Short-Term Studentship (STS) Fellowship**, Dr. D. Y. Patil College of Physiotherapy, Pune
   - Actively involved in study design, participant screening and assessment, data collection, statistical analysis, and interpretation of results
@@ -125,7 +145,7 @@ Key subjects included:
 - **Effects of Physiotherapy and Management of Foville Syndrome**
   - Published **clinical case study** in a **Scopus-indexed, peer-reviewed journal** (ISSN: 2061-2710)
   - Conducted detailed clinical evaluation, intervention planning, outcome monitoring, and structured documentation for a rare neurological condition
-  - Integrated neurological rehabilitation protocols with current academic literature to support clinical decision-making
+  - Concluded that integrated strategies (medical therapy + well-designed physiotherapy) significantly reduced discomfort and increased functional mobility. Highlighted the importance of a multidisciplinary approach (neurologists, rehab specialists, imaging experts).
 
 ### Ongoing Academic Work
 - Ongoing Internship Research Study Project
@@ -136,7 +156,7 @@ Key subjects included:
 
 ## Conference Presentations & Awards
 
-- 🥇 **First Place – Scientific Paper Presentation**, PHYSIO-DROME (National Physiotherapy Conference), Dr. D. Y. Patil College of Physiotherapy, Pune
+- 🥇 **First Place – Scientific Paper Presentation (UG Neuro Category)**, PHYSIO-DROME (National Physiotherapy Conference), Dr. D. Y. Patil College of Physiotherapy, Pune
   *"A Case Study on Foville Syndrome"*
 
 - 🥇 **First Prize – Outstanding Research Paper Presentation (UG Category)**, Electrocon-24 – National Electrotherapy Conference, Maharashtra Institute of Physiotherapy, Latur
@@ -150,10 +170,15 @@ Key subjects included:
 
 ---
 
-## Certifications
+## Professional Memberships & Certifications
 
+### Professional Registration
+- **Indian Association of Physiotherapists (IAP)**: Registration applied and in progress (expected to be finalized by March 2026).
+
+### Certifications
 - **Certified Kinesio Taping Practitioner (CKTP)**
 - **Certified in Nerve Conduction Studies (NCS)**
+- **Certified Cupping Therapist (CCT)**
 
 ---
 
@@ -190,7 +215,7 @@ Key subjects included:
 - **Directed a theatrical play** based on a movie for the annual college gathering
 - Performed **street plays (Nukkad Natak)** on first aid and emergency care
 - Won **1st place in Nukkad Natak** during Bioethics Week
-- Sustained an ATF ligament tear while playing basketball (self-managed recovery)
+- Sustained an ATF ligament tear while playing basketball. Self-managed her recovery using personal strength, consistency, and targeted rehabilitation rather than relying on external interventions, which sparked her profound realization of the "power of rehabilitation" and served as her core motivation to pursue physiotherapy.
 
 ---
 

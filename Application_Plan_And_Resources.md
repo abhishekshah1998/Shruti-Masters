@@ -137,6 +137,28 @@ All source documents are now in Markdown format. The following files are availab
 
 ---
 
+### 1.10 CV Documents: [CV.md](CV.md), [Resume Updated.md](Resume Updated.md), [Shruti_Comprehensive_CV.md](Shruti_Comprehensive_CV.md)
+**Contents:**
+- Various formats of Shruti's Curriculum Vitae detailing her clinical internship exposure, musculoskeletal & sports rehabilitation, and specific research projects (Foville Syndrome, Lumbopelvic Rotational Exercise).
+- Includes conference presentations, certifications (CKTP, NCS), extracurriculars (Student Council Secretary), and volunteer experience (endurance sports physio).
+
+**How to use & Purpose:**
+- **Usage:** Extract specific dates, roles, and quantifiable achievements (e.g., 1092 internship hours, First Class GPA) for application forms and essays.
+- **Purpose:** Use `Shruti_Comprehensive_CV.md` as the primary source for the optional CV attachment (as requested in Q8) and for verifying concrete facts in the essays.
+
+---
+
+### 1.11 [Shruti_Application_Questionnaire.md](Shruti_Application_Questionnaire.md)
+**Contents:**
+- Shruti's drafted answers and raw personal reflections regarding the LLU application questions.
+- Covers her motivation (personal ATFL ligament tear experience), impactful patient experiences (CVTS ward, pediatric CVA, ACL rehab), career goals, and details of her internships and research.
+
+**How to use & Purpose:**
+- **Usage:** Primary source material for her authentic personal voice, specific clinical anecdotes, and raw reflections.
+- **Purpose:** Directly integrate these stories into the final drafts for Q4-Q8. The raw stories will be refined and mapped to LLU values (using `LLU_Mission_And_Values.md`) while adhering to length constraints.
+
+---
+
 ## 2. Action Plan: Drafting the Application
 
 We will proceed with drafting the application answers in a structured sequence, mapping Shruti's background to LLU's specific prompts.
@@ -144,7 +166,7 @@ We will proceed with drafting the application answers in a structured sequence, 
 ### Step 1: Mapping Experiences to Questions
 Before drafting, we establish a core narrative for each question to avoid overlap and ensure comprehensive coverage:
 
-- **Q4 (Why LLU & Advanced Ed):** Focus on LLU's *whole-person care* philosophy and *global mission* context. Reference the **Global Health Institute (GHI)**, the **SIMS program**, the **Malamulo Global Campus**, and the Good Samaritan ethos. Connect to Shruti's desire to evolve from a strong clinical baseline (1,092-hr internship) into advanced, research-informed, globally-minded PT practice. Cite the **Mission Globe** as a symbol of LLU's generational commitment to service. Incorporate the rationale from the **BPT vs. DPT Syllabus Analysis**: Shruti wants to transition from protocol-driven care to an autonomous practitioner by mastering new areas like *Medical Screening* and *Diagnostic Imaging*.
+- **Q4 (Why LLU & Advanced Ed):** Focus on LLU's *whole-person care* philosophy and *global mission* context. Reference the **Global Health Institute (GHI)**, the **SIMS program**, the **Malamulo Global Campus**, and the Good Samaritan ethos. Connect to Shruti's desire to evolve from a strong clinical baseline into advanced, research-informed, globally-minded PT practice. Cite the **Mission Globe** as a symbol of LLU's generational commitment. Incorporate her specific post-DPT goals: specializing in clinical practice while publishing research on efficient protocols, and gaining international exposure before returning to India. Incorporate the rationale from the **BPT vs. DPT Syllabus Analysis**: mastering new areas like *Medical Screening* and *Diagnostic Imaging*.
 
 - **Q5 (Values Alignment):** Directly map LLU's "C WITH Jesus' Eyes" values to Shruti's life using the exact value names:
   - *Compassion* → orphanage English teaching, caring for underprivileged children.
@@ -154,14 +176,14 @@ Before drafting, we establish a core narrative for each question to avoid overla
   - *Excellence* → 1st place state cricket, 1st place Nukkad Natak Bioethics Week.
   - *Wholeness* → PRISM: integrating physical recovery from injury with mental and community dimensions.
 
-- **Q6 (Qualities & Experiences):** Highlight the 26-week / 1,092-hour rotatory internship, the 5 case presentations, the Foville Syndrome case study research, the Nukkad Natak 1st place (first aid awareness), student leadership across 2 years on Student Council, and sports achievements (state-level cricket). Present Shruti as: clinically competent + research-curious + community-driven.
+- **Q6 (Qualities & Experiences):** Highlight the 1,092-hour rotatory internship, focusing on the specific formative patient experiences from the questionnaire: the CVTS ward (understanding the "cost of life"), the pediatric CVA case (building trust before physical rehab), the ACL reconstruction athlete (return-to-sport confidence), and the frozen shoulder patient (restoring functional independence). Combine this with her 5 case presentations, Foville Syndrome case study, Nukkad Natak 1st place (first aid awareness), student leadership (General Secretary), and sports achievements (state-level cricket). Present Shruti as: clinically competent + research-curious + community-driven.
 
 - **Q7 (Faith-Based Education):** Discuss how spiritual formation fosters empathy, humility, and resilience — traits essential for a PT working with vulnerable patients. Connect to:
   - The SDA concept of the Sabbath as *rest from achievement-based worth* — a principle Shruti lived during ATFL recovery.
   - The PRISM model of wholeness. Faith is not separate from healing; it is the *why* behind the commitment to "Go and do likewise."
   - **RELR 525 (Health Care and the Dynamics of Christian Leadership)** as a course Shruti explicitly wants to take, bridging clinical leadership with ethical, values-driven service.
 
-- **Q8 (Additional Info / Purpose):** Frame as a personal statement. Arc: *curiosity in Semester 3 Biomechanics → ATFL injury (patient perspective) → Foville Syndrome case study (neurology) → vision: advanced PT blending biomechanics research and neurological rehabilitation at LLU.* Cite specific LLU courses (**PTGR 550**, **PTGR 591/592**, **PTGR 523**, **PTGR 504**) and highlight the explicit bridge from her foundational BPT coursework to target DPT specializations as outlined in the **BPT vs. DPT Syllabus Analysis** (e.g., advancing from basic orthopaedics to *Regional Interdependency*). End with a tie back to the LLU mission.
+- **Q8 (Additional Info / Purpose):** Frame as a personal statement. Arc: *teenage basketball ATFL injury (the power of rehab using personal strength) → Foville Syndrome case study (neurology) → Lumbopelvic rotation research (experimental) → vision: advanced PT blending research and clinical practice at LLU.* Cite specific LLU courses (**PTGR 550**, **PTGR 591/592**, **PTGR 523**, **PTGR 504**) and highlight the explicit bridge from her foundational BPT coursework to target DPT specializations as outlined in the **BPT vs. DPT Syllabus Analysis** (e.g., advancing from basic orthopaedics to *Regional Interdependency*). Note that her IAP registration is currently in progress (expected March 2026). End with a tie back to the LLU mission.
 
 ---
 
